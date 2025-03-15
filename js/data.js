@@ -24,7 +24,7 @@ const eventsData = [
       category: "art",
       description:
         "Experience groundbreaking works from contemporary artists pushing the boundaries of modern art. This exhibition showcases innovative techniques and thought-provoking concepts that challenge conventional perspectives.",
-      image: "/assets/images/Art.jpg",
+      image: "assets/images/Art.jpg",
       price: "$25",
       organizer: "Nike Art",
       featured: true,
@@ -39,7 +39,7 @@ const eventsData = [
       category: "food",
       description:
         "Kigali Food Festival is a celebrated annual event that brings together all the best cuisines and restaurants in one place to celebrate a culinary art.",
-      image: "/assets/images/Food.jpg",
+      image: "assets/images/Food.jpg",
       price: "Free entry",
       organizer: "Kigali Food Festival",
       featured: true,
@@ -54,7 +54,7 @@ const eventsData = [
       category: "technology",
       description:
         "The premier technology conference featuring keynote speakers from leading tech companies, workshops, networking opportunities, and the latest innovations in AI, blockchain, and more.",
-      image: "/assets/images/Tech.jpg",
+      image: "assets/images/Tech.jpg",
       price: "$19",
       organizer: "Global AI Summit",
       featured: false,
@@ -69,7 +69,7 @@ const eventsData = [
       category: "sports",
       description:
         "Watch the most talented local basketball teams compete in this exciting tournament. Food, drinks, and merchandise will be available for purchase throughout the event.",
-      image: "/assets/images/Basketball.jpg",
+      image: "assets/images/Basketball.jpg",
       price: "$30",
       organizer: "BAL",
       featured: false,
@@ -84,7 +84,7 @@ const eventsData = [
       category: "music",
       description:
         "An intimate evening of jazz performances by renowned musicians. Enjoy craft cocktails and a sophisticated atmosphere as you listen to smooth melodies and improvisational genius.",
-      image: "/assets/images/Jazz.jpg",
+      image: "assets/images/Jazz.jpg",
       price: "$50",
       organizer: "BABASHEESH CHATHAM",
       featured: false,
@@ -99,7 +99,7 @@ const eventsData = [
       category: "food",
       description:
         "Take a guided tour through beautiful vineyards and sample premium wines paired with gourmet cheeses and appetizers. Learn about wine-making processes and history from expert sommeliers.",
-      image: "/assets/images/Wine.jpg",
+      image: "assets/images/Wine.jpg",
       price: "$35",
       organizer: "Treasure Suites",
       featured: false,
@@ -114,7 +114,7 @@ const eventsData = [
       category: "art",
       description:
         "Learn digital art techniques using industry-standard software. This hands-on workshop is perfect for beginners and intermediate artists looking to enhance their digital skills.",
-      image: "/assets/images/Digital-Art.jpg",
+      image: "assets/images/Digital-Art.jpg",
       price: "$75",
       organizer: "Digital Artists Collective",
       featured: false,
@@ -129,7 +129,7 @@ const eventsData = [
       category: "sports",
       description:
         "Join thousands of runners in this annual marathon event. The route takes you through historic landmarks and beautiful scenery. All fitness levels are welcome to participate.",
-      image: "/assets/images/Marathon.jpg",
+      image: "assets/images/Marathon.jpg",
       price: "$60",
       organizer: "Rwanda Athletic Federation (RAF)",
       featured: false,
@@ -144,7 +144,7 @@ const eventsData = [
       category: "technology",
       description:
         "Connect with industry leaders and explore the latest advancements in artificial intelligence and machine learning. Featuring hands-on demonstrations, panel discussions, and networking opportunities.",
-      image: "/assets/images/Indaba.jpg",
+      image: "assets/images/Indaba.jpg",
       price: "$150",
       organizer: "Indaba",
       featured: false,
