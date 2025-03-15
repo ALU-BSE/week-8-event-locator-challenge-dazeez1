@@ -9,7 +9,7 @@ const eventsData = [
       category: "music",
       description:
         "Join us for a day of amazing live performances featuring top artists from around the East African. Food and drinks will be available for purchase. Bring your friends and enjoy the vibes!",
-      image: "/assets/Music.jpg",
+      image: "/images/Music.jpg",
       price: "$45",
       organizer: "Sofar",
       featured: true,
