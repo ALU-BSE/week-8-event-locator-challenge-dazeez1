@@ -1,0 +1,110 @@
+/* General Styles */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("https://api.placeholder.com/1600/800") no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+  }
+  
+  .hero-section h1 {
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+  
+  .search-container {
+    max-width: 900px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+  }
+  
+  /* Featured Events */
+  .event-card {
+    transition: transform 0.3s;
+    height: 100%;
+    border: none;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .event-card .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .event-date {
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+  
+  .event-location {
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+  
+  .category-badge {
+    font-size: 0.8rem;
+    text-transform: capitalize;
+  }
+  
+  /* Categories Section */
+  .category-card {
+    height: 100%;
+    transition: transform 0.3s;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .category-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Event Details Page */
+  .event-banner {
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .event-details .event-info-box {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .event-details .event-info-box .info-label {
+    font-weight: bold;
+    color: #495057;
+  }
+  
+  .event-details .description {
+    line-height: 1.8;
+  }
+  
+  /* Filter Section */
+  .filter-section {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .hero-section {
+      padding: 60px 0;
+    }
+  
+    .event-banner {
+      height: 200px;
+    }
+  }
+  
