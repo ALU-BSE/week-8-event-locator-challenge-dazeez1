@@ -9,7 +9,7 @@ const eventsData = [
       category: "music",
       description:
         "Join us for a day of amazing live performances featuring top artists from around the East African. Food and drinks will be available for purchase. Bring your friends and enjoy the vibes!",
-      image: "/images/Music.jpg",
+      image: "/assets/images/Music.jpg",
       price: "$45",
       organizer: "Sofar",
       featured: true,
@@ -24,7 +24,7 @@ const eventsData = [
       category: "art",
       description:
         "Experience groundbreaking works from contemporary artists pushing the boundaries of modern art. This exhibition showcases innovative techniques and thought-provoking concepts that challenge conventional perspectives.",
-      image: "/assets/Art.jpg",
+      image: "/assets/images/Art.jpg",
       price: "$25",
       organizer: "Nike Art",
       featured: true,
